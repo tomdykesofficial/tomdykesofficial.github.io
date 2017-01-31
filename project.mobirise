@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "TOMDYKES",
+    "currentPage": " ",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "TOMDYKES": {
+    " ": {
       "settings": {
         "main": true,
         "title": "Tom Dykes Website",
