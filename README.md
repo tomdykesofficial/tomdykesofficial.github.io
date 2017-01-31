@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v3.11.1, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
   <meta name="description" content="The official website for Tom Dykes
 ">
