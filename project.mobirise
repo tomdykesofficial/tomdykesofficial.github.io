@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": " ",
+    "currentPage": " tomdykesofficial.github.io",
     "name": "tomdykesofficial.github.io",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,7 @@
     "noImageResize": ""
   },
   "pages": {
-    " ": {
+    " tomdykesofficial.github.io": {
       "settings": {
         "main": true,
         "title": "Tom Dykes Website",
